@@ -1,9 +1,12 @@
 {
   "resources": [
+    {"id":{"name":"c_fad","path":"scripts/c_fad/c_fad.yy",},"order":1,},
+    {"id":{"name":"o_fad","path":"objects/o_fad/o_fad.yy",},"order":1,},
     {"id":{"name":"o_intro","path":"objects/o_intro/o_intro.yy",},"order":0,},
+    {"id":{"name":"startwo","path":"rooms/startwo/startwo.yy",},"order":1,},
     {"id":{"name":"c_null","path":"scripts/c_null/c_null.yy",},"order":0,},
     {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},"order":0,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"start","path":"rooms/start/start.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -19,7 +22,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"start","path":"rooms/start/start.yy",},},
+    {"roomId":{"name":"startwo","path":"rooms/startwo/startwo.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
